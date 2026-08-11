@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/alokgupta2005/Leetcode/tree/master/0268-missing-number) |
 | [1510-stone-game-iv](https://github.com/alokgupta2005/Leetcode/tree/master/1510-stone-game-iv) |
 ## Dynamic Programming
 |  |
@@ -44,13 +45,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/alokgupta2005/Leetcode/tree/master/0268-missing-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/alokgupta2005/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/alokgupta2005/Leetcode/tree/master/0268-missing-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/alokgupta2005/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/alokgupta2005/Leetcode/tree/master/0268-missing-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/alokgupta2005/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/alokgupta2005/Leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/alokgupta2005/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
