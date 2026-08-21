@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/alokgupta2005/Leetcode/tree/master/0054-spiral-matrix) |
+| [0179-largest-number](https://github.com/alokgupta2005/Leetcode/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/alokgupta2005/Leetcode/tree/master/0268-missing-number) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/alokgupta2005/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/alokgupta2005/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/alokgupta2005/Leetcode/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/alokgupta2005/Leetcode/tree/master/0268-missing-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/alokgupta2005/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/alokgupta2005/Leetcode/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/alokgupta2005/Leetcode/tree/master/0179-largest-number) |
 | [1108-defanging-an-ip-address](https://github.com/alokgupta2005/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/alokgupta2005/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/alokgupta2005/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -106,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/alokgupta2005/Leetcode/tree/master/0125-valid-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/alokgupta2005/Leetcode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
