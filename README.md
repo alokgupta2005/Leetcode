@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/alokgupta2005/Leetcode/tree/master/0268-missing-number) |
 | [1510-stone-game-iv](https://github.com/alokgupta2005/Leetcode/tree/master/1510-stone-game-iv) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/alokgupta2005/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/alokgupta2005/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Dynamic Programming
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/alokgupta2005/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/alokgupta2005/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/alokgupta2005/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/alokgupta2005/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/alokgupta2005/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/alokgupta2005/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
@@ -71,10 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/alokgupta2005/Leetcode/tree/master/0268-missing-number) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/alokgupta2005/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/alokgupta2005/Leetcode/tree/master/0268-missing-number) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/alokgupta2005/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/alokgupta2005/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sliding Window
 |  |
@@ -113,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/alokgupta2005/Leetcode/tree/master/0179-largest-number) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/alokgupta2005/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Number Theory
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/alokgupta2005/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
