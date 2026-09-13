@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/alokgupta2005/Leetcode/tree/master/0054-spiral-matrix) |
 | [0179-largest-number](https://github.com/alokgupta2005/Leetcode/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/alokgupta2005/Leetcode/tree/master/0268-missing-number) |
+| [0835-image-overlap](https://github.com/alokgupta2005/Leetcode/tree/master/0835-image-overlap) |
 | [1872-stone-game-viii](https://github.com/alokgupta2005/Leetcode/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/alokgupta2005/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/alokgupta2005/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/alokgupta2005/Leetcode/tree/master/0054-spiral-matrix) |
+| [0835-image-overlap](https://github.com/alokgupta2005/Leetcode/tree/master/0835-image-overlap) |
 ## Simulation
 |  |
 | ------- |
