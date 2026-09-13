@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/alokgupta2005/Leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/alokgupta2005/Leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/alokgupta2005/Leetcode/tree/master/0268-missing-number) |
 | [1510-stone-game-iv](https://github.com/alokgupta2005/Leetcode/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/alokgupta2005/Leetcode/tree/master/1872-stone-game-viii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/alokgupta2005/Leetcode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/alokgupta2005/Leetcode/tree/master/0066-plus-one) |
 | [0179-largest-number](https://github.com/alokgupta2005/Leetcode/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/alokgupta2005/Leetcode/tree/master/0268-missing-number) |
 | [0835-image-overlap](https://github.com/alokgupta2005/Leetcode/tree/master/0835-image-overlap) |
