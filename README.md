@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/alokgupta2005/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1108-defanging-an-ip-address](https://github.com/alokgupta2005/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/alokgupta2005/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2490-circular-sentence](https://github.com/alokgupta2005/Leetcode/tree/master/2490-circular-sentence) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/alokgupta2005/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/alokgupta2005/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/alokgupta2005/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
