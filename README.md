@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/alokgupta2005/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1510-stone-game-iv](https://github.com/alokgupta2005/Leetcode/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/alokgupta2005/Leetcode/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/alokgupta2005/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Minimax
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/alokgupta2005/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1108-defanging-an-ip-address](https://github.com/alokgupta2005/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/alokgupta2005/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/alokgupta2005/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2490-circular-sentence](https://github.com/alokgupta2005/Leetcode/tree/master/2490-circular-sentence) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/alokgupta2005/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/alokgupta2005/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -150,12 +152,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/alokgupta2005/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/alokgupta2005/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/alokgupta2005/Leetcode/tree/master/0344-reverse-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/alokgupta2005/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/alokgupta2005/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/alokgupta2005/Leetcode/tree/master/0179-largest-number) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/alokgupta2005/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/alokgupta2005/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/alokgupta2005/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Combinatorics
 |  |
