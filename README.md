@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/alokgupta2005/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1145-binary-tree-coloring-game](https://github.com/alokgupta2005/Leetcode/tree/master/1145-binary-tree-coloring-game) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/alokgupta2005/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/alokgupta2005/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1145-binary-tree-coloring-game](https://github.com/alokgupta2005/Leetcode/tree/master/1145-binary-tree-coloring-game) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/alokgupta2005/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/alokgupta2005/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/alokgupta2005/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/alokgupta2005/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/alokgupta2005/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/alokgupta2005/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/alokgupta2005/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/alokgupta2005/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/alokgupta2005/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/alokgupta2005/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/alokgupta2005/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -189,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/alokgupta2005/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/alokgupta2005/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/alokgupta2005/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/alokgupta2005/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/alokgupta2005/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Segment Tree
 |  |
@@ -196,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/alokgupta2005/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/alokgupta2005/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/alokgupta2005/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/alokgupta2005/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Ordered Set
 |  |
 | ------- |
@@ -338,4 +344,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/alokgupta2005/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/alokgupta2005/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/alokgupta2005/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/alokgupta2005/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
